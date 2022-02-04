@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gdjs2/Desktop/oat_test/src",
+  "command": "/usr/bin/c++   -isystem /opt/oatpp/include/oatpp-1.3.0/oatpp    -std=gnu++11 -o CMakeFiles/oat_test.dir/App.cpp.o -c /home/gdjs2/Desktop/oat_test/src/App.cpp",
+  "file": "/home/gdjs2/Desktop/oat_test/src/App.cpp"
+},
+{
+  "directory": "/home/gdjs2/Desktop/oat_test/test",
+  "command": "/usr/bin/c++      -std=gnu++11 -o CMakeFiles/oat_testTests.dir/Tests.cpp.o -c /home/gdjs2/Desktop/oat_test/test/Tests.cpp",
+  "file": "/home/gdjs2/Desktop/oat_test/test/Tests.cpp"
+}
+]
